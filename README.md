@@ -46,9 +46,8 @@ A production‑grade license plate detection system built using YOLOv12 and a fu
 ### 🔹 Project 2 — Multi‑Edge Graph‑Based DDoS Detection (Research Paper Under Review)
 Developed a new multi‑edge network traffic dataset derived from CICE2017, modeling real‑world DDoS behavior through edge‑centric graph representations. A graph‑based machine learning model was trained to detect DDoS attacks across protocols such as DNS, NTP, and other network services. The resulting research is currently under peer review.
 
-### 🔹 Project 3 — AI-Based Research Tools  
-A collection of research‑oriented machine learning scripts and utilities.
-
+### 🔹 Project 3 — GAN‑Augmented ECG Signal Processing and Multi‑Class Classification on MIT‑BIH (Research Paper in Preparation)
+Developed a GAN-based ECG signal generator to augment the MIT‑BIH dataset and address class imbalance. Designed an advanced normalization model to improve real-world ECG signal quality. Implemented a deep learning classifier to detect all 23 labeled beat classes for real-time applications. Research is currently under testing and preparation for publication.
 ---
 
 ## 🏆 Achievements  
