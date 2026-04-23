@@ -36,6 +36,8 @@ My work centers on designing intelligent systems, implementing advanced deep neu
 
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
+![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
 
 
 **Tools & Platforms:**  
