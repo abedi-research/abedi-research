@@ -72,9 +72,7 @@ Developed and deployed a deep learning model for image caption generation using 
 ---
 
 ## 📫 Contact  
-**Email:** your.email@example.com  
-**LinkedIn:** (optional)  
-**Kaggle:** (optional)  
+- 📧 [Email me](mailto:abolfazl1383abedy1383@gmail.com)
 
 ---
 
