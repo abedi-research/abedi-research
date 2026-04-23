@@ -9,9 +9,16 @@ My work mainly focuses on building intelligent systems, implementing deep neural
 ## 🔧 Skills & Technologies
 
 **Machine Learning & AI:**  
-- Deep Learning, Machine Learning  
-- Neural Networks, CNNs, RNNs, Transformers  
-- Computer Vision, NLP  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2E8B57)
+
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4169E1)
+![CNNs](https://img.shields.io/badge/CNNs-1E90FF)
+![RNNs](https://img.shields.io/badge/RNNs-20B2AA)
+![Transformers](https://img.shields.io/badge/Transformers-FF8C00)
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-DC143C)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD)
 
 **Programming:**  
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
