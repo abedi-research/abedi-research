@@ -40,8 +40,8 @@ My work centers on designing intelligent systems, implementing advanced deep neu
 
 ## 📌 Featured Projects
 
-### 🔹 Project 1 — Image Classification with CNNs  
-A deep learning pipeline for multi‑class image classification using PyTorch.
+### 🔹 Project — License Plate Detection System (YOLOv12)
+A production‑grade license plate detection system built using YOLOv12 and a fully custom in‑house dataset, deployed as a real product for high‑accuracy vehicle access control in parking and secured environments.
 
 ### 🔹 Project 2 — NLP Sentiment Analyzer  
 A neural network model for sentiment analysis using LSTM/Transformer architectures.
