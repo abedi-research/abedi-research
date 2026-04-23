@@ -38,6 +38,14 @@ My work centers on designing intelligent systems, implementing advanced deep neu
 
 ![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
+- ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- ![NumPy](https://img.shields.io/badge/Data%20Science-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Data%20Science-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+- ![PyTorch](https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 
 **Tools & Platforms:**  
