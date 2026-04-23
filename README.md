@@ -22,6 +22,15 @@ My work mainly focuses on building intelligent systems, implementing deep neural
 ![NLP](https://img.shields.io/badge/NLP-HuggingFace-FFCC4D?logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFCC4D?logo=huggingface&logoColor=black)
 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![RNNs](https://img.shields.io/badge/RNNs-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-FFCC4D?logo=huggingface&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-HuggingFace-FFCC4D?logo=huggingface&logoColor=black)
+
 
 **Programming:**  
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
