@@ -43,8 +43,8 @@ My work centers on designing intelligent systems, implementing advanced deep neu
 ### 🔹 Project — License Plate Detection System (YOLOv12)
 A production‑grade license plate detection system built using YOLOv12 and a fully custom in‑house dataset, deployed as a real product for high‑accuracy vehicle access control in parking and secured environments.
 
-### 🔹 Project 2 — NLP Sentiment Analyzer  
-A neural network model for sentiment analysis using LSTM/Transformer architectures.
+### 🔹 Project 2 — Multi‑Edge Graph‑Based DDoS Detection (Research Paper Under Review)
+Developed a new multi‑edge network traffic dataset derived from CICE2017, modeling real‑world DDoS behavior through edge‑centric graph representations. A graph‑based machine learning model was trained to detect DDoS attacks across protocols such as DNS, NTP, and other network services. The resulting research is currently under peer review.
 
 ### 🔹 Project 3 — AI-Based Research Tools  
 A collection of research‑oriented machine learning scripts and utilities.
