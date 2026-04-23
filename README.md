@@ -34,7 +34,7 @@ My work centers on designing intelligent systems, implementing advanced deep neu
   ![Ubuntu](https://img.shields.io/badge/Operating%20System-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 - ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   ![Colab](https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
+-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
