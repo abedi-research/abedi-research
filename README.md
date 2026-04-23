@@ -60,11 +60,14 @@ Developed and deployed a deep learning model for image caption generation using 
 ---
 
 ## 🔬 Research Interests  
-- Deep Learning  
-- Computer Vision  
-- Natural Language Processing  
-- Generative Models  
-- Applied Machine Learning  
+- Deep Learning & Neural Networks  
+- Computer Vision & Image Analysis  
+- Natural Language Processing (NLP)  
+- Generative Models & GANs  
+- Anomaly Detection in Network Traffic  
+- Federated Learning & Distributed AI  
+- Biomedical Signal Processing  
+- Applied Machine Learning
 
 ---
 
