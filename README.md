@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abolfazl Abedi  
 ### AI & Deep Learning Researcher | Python Developer
 
-I am an AI and Deep Learning researcher with several years of experience working on research‑driven machine learning projects.  
-My work mainly focuses on building intelligent systems, implementing deep neural architectures, and developing applied AI solutions.
+I am an AI and Deep Learning researcher with several years of experience in developing research‑driven machine learning projects.
+My work centers on designing intelligent systems, implementing advanced deep neural architectures, and building applied AI solutions that bridge the gap between theory and real‑world applications.
 
 ---
 
