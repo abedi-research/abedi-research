@@ -28,19 +28,10 @@ My work centers on designing intelligent systems, implementing advanced deep neu
   ![TensorFlow](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 **Tools & Platforms:**  
-- ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-  ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-
 - ![Git](https://img.shields.io/badge/Version%20Control-Git-F05033?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?style=flat&logo=github&logoColor=white)
-
 - ![Linux](https://img.shields.io/badge/Operating%20System-Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Operating%20System-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
 - ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
   ![Colab](https://img.shields.io/badge/Notebook-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
