@@ -48,6 +48,7 @@ Developed a new multi‑edge network traffic dataset derived from CICE2017, mode
 
 ### 🔹 Project 3 — GAN‑Augmented ECG Signal Processing and Multi‑Class Classification on MIT‑BIH (Research Paper in Preparation)
 Developed a GAN-based ECG signal generator to augment the MIT‑BIH dataset and address class imbalance. Designed an advanced normalization model to improve real-world ECG signal quality. Implemented a deep learning classifier to detect all 23 labeled beat classes for real-time applications. Research is currently under testing and preparation for publication.
+
 ---
 
 ## 🏆 Achievements  
