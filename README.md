@@ -55,7 +55,7 @@ Developed and deployed a deep learning model for image caption generation using 
 ---
 
 ## 🏆 Achievements  
-- Member of top‑ranked AI competition teams (national level)
+- Participated in Part’s First Technology Hackathon (2025), focused on Anomaly Detection in Network Traffic Using AI, organized by the National University of Skill of Razavi Khorasan and Part Research Institute. Successfully recognized for active participation throughout the multi‑stage event.
 
 ---
 
